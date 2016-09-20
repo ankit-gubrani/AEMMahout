@@ -6,7 +6,7 @@ thought about Integrating Apache Mahout with AEM to simply make our AEM applicat
 In this project we have created a User based recommnedation engine which reads user preferences/reviews stored in AEM under
 JCR. And based on the data set it provides recommendations to its users.
 
-Here is the link that explains more : [AEM-Mahout Integration](https://rimamittal.github.io/AEMMahout/#/)
+Here is the link that explains more : [AEM-Mahout Integration](https://ankit-gubrani.github.io/AEMMahout/#/)
 
 ## Modules
 
